@@ -1,0 +1,44 @@
+low 640x480
+06-04-2022, 15:49:30 UT2004.exe benchmark completed, 11119 frames rendered in 236.032 s
+                     Average framerate  :   47.1 FPS
+                     Minimum framerate  :   28.4 FPS
+                     Maximum framerate  :  102.8 FPS
+                     1% low framerate   :   28.2 FPS
+                     0.1% low framerate :   20.8 FPS
+low 640x480
+06-04-2022, 15:57:09 hl2.exe benchmark completed, 3307 frames rendered in 62.187 s
+                     Average framerate  :   53.1 FPS
+                     Minimum framerate  :    4.8 FPS
+                     Maximum framerate  :   90.6 FPS
+                     1% low framerate   :   27.5 FPS
+                     0.1% low framerate :   19.3 FPS
+low 800x600
+06-04-2022, 16:13:09 TombRaider.exe benchmark completed, 978 frames rendered in 161.156 s
+                     Average framerate  :    6.0 FPS
+                     Minimum framerate  :    3.9 FPS
+                     Maximum framerate  :    7.8 FPS
+                     1% low framerate   :    3.7 FPS
+                     0.1% low framerate :    2.9 FPS
+
+FEAR DNF
+low 800x600
+06-04-2022, 16:42:02 TESV.exe benchmark completed, 1268 frames rendered in 262.469 s
+                     Average framerate  :    4.8 FPS
+                     Minimum framerate  :    1.7 FPS
+                     Maximum framerate  :    9.9 FPS
+                     1% low framerate   :    1.6 FPS
+                     0.1% low framerate :    1.1 FPS
+low 800x600
+06-04-2022, 16:45:33 XR_3DA.exe benchmark completed, 631 frames rendered in 24.547 s
+                     Average framerate  :   25.7 FPS
+                     Minimum framerate  :   16.1 FPS
+                     Maximum framerate  :   39.6 FPS
+                     1% low framerate   :   12.4 FPS
+                     0.1% low framerate :    8.7 FPS
+low 800x600
+06-04-2022, 17:02:36 Crysis.exe benchmark completed, 1180 frames rendered in 96.109 s
+                     Average framerate  :   12.2 FPS
+                     Minimum framerate  :    7.9 FPS
+                     Maximum framerate  :   15.4 FPS
+                     1% low framerate   :    8.0 FPS
+                     0.1% low framerate :    7.0 FPS
